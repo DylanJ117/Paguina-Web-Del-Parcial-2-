@@ -1,0 +1,87 @@
+h1{
+    color: aqua;
+    font-size: 100px;
+    padding: 20px;
+    background-color: blueviolet;
+    text-align: center;
+}
+body{
+    background-color: rgb(165, 112, 42);
+    font-family: 'Times New Roman', Times, serif;
+}
+.menulis{
+    color: white;
+    background-color: rgb(59, 129, 12);
+    text-align: center;
+    padding: 20px;
+}
+.men{
+    display: inline-flex;
+    padding: 20px;
+}
+.logo{
+    border-radius: 100%;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
+.eslogan{
+    color: rgb(99, 218, 202);
+    font-size: 50px;
+    text-align: center;
+}
+
+.historia{
+    color: white;
+    background-color: blueviolet;
+    border: 5px solid gray;
+    padding: 20px;
+    justify-content: center;
+}
+
+.album{
+    text-align: center;
+    color: white;
+    background-color: rgb(55, 170, 179);
+    border: 5px solid gray; 
+
+}
+.image{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    padding: 20px;
+}
+.comentarios{
+    color: black;
+    background-color: darkcyan;
+}
+.com{ 
+    font-size: 25px;
+    text-align: center;
+}
+
+.comen{
+    padding: 5px;
+    display: inline-flex;
+}
+
+footer{
+    background-color: rgb(241, 13, 13);
+    color: white;
+    border: 5px solid gray;
+    padding: 15px;
+    font-size: 13px;
+}
+
+.pie{
+   text-align: start;
+}
+.info{
+    text-align: center;
+}
+
+.links{
+    text-align: end;
+}
